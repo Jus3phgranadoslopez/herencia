@@ -1,0 +1,2 @@
+# herencia
+trabajo herencia(POO)
